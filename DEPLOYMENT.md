@@ -4,7 +4,7 @@ This project has been configured for automatic deployment to Cloudflare Workers.
 
 ## Repository
 
-- **URL**: https://github.com/RapidSD/1957262a-48
+- **URL**: https://github.com/rapidsd/1957262a-48
 - **Deployment**: Automated via GitHub Actions
 
 ## Important Notes
@@ -30,7 +30,7 @@ The following are already configured in your GitHub repository:
 ## 🌐 Live URLs
 
 - **Production**: https://1957262a-48.workers.dev
-- **Repository**: https://github.com/RapidSD/1957262a-48
+- **Repository**: https://github.com/rapidsd/1957262a-48
 
 ## 📋 Deployment Process
 
@@ -44,7 +44,7 @@ If you want to run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RapidSD/1957262a-48.git
+   git clone https://github.com/rapidsd/1957262a-48.git
    cd 1957262a-48
    ```
 
